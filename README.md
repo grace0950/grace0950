@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pin-Yan, you can call me Yan. I am Bachelor of National Cheng-Chi University, Taiwan.
+I'm Ping-Yen, you can call me Yan. I am Bachelor of National Cheng-Chi University, Taiwan.
 
 
 ### 📚 All Skills
