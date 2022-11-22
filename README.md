@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+I'm Pin-Yan, you can call me Yan. I am Bachelor of National Cheng-Chi University, Taiwan.
+
+
 ### 📚 All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,vscode,vim,js,html,css,c,nodejs,python,java,vue,mysql,md,aws,linux,bash,docker)
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,vscode,vim,js,html,css,c,nodejs,python,java,vue,mysql,md,aws,linux,bash,docker,solidity)
 
 ### 🦁 Top Languages
 
