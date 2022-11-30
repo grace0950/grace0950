@@ -5,7 +5,7 @@ I'm Ping-Yen, you can call me Yan. I am Bachelor of National Cheng-Chi Universit
 
 ### 📚 All Skills
 
-![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,vscode,vim,js,html,css,c,nodejs,express,python,java,vue,mysql,md,aws, gcp,linux,bash,docker,solidity)
+![](https://skillicons.dev/icons?perline=15&i=github,gitlab,git,vscode,vim,js,html,css,c,nodejs,express,python,java,vue,mysql,md,aws,gcp,linux,bash,docker,solidity)
 
 ### 🦁 Top Languages
 
