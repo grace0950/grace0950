@@ -11,4 +11,4 @@ I'm Ping-Yen, you can call me Yan. I am Bachelor of National Cheng-Chi Universit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grace0950)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace0950&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grace0950&show_icons=true&hide=issues&count_private=true)
