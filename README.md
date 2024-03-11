@@ -2,9 +2,7 @@
 
 I'm Ping-Yen, you can call me Yan. I am a Bachelor in Computer Science from National Cheng-Chi University, Taiwan.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alan890104&label=Profile%20views&color=0e75b6&style=flat" alt="alan890104" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alan890104" alt="alan890104" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grace0950" alt="grace0950" /></a> </p>
 
 
 ### 📚 All Skills
