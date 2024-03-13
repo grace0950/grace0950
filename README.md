@@ -6,8 +6,8 @@ I'm diving deep into Computer Science and Engineering, passionate about blockcha
 
 ### 👨‍💻 Current Projects
 
-Ticton Project | Ton Dynasty
-Cerana Studio: Engaging in competitions, projects, and study groups, aiming to learn, grow, and make an impact together.
+- Ticton | Ton Dynasty
+- Cerana Studio: Engaging in competitions, projects, and study groups, aiming to learn, grow, and make an impact together.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grace0950" alt="grace0950" /></a> </p>
 
