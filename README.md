@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-🎓 Graduate Student @ National Yang Ming Chiao Tung University
+### 🎓 Graduate Student @ National Yang Ming Chiao Tung University
+
 I'm diving deep into Computer Science and Engineering, passionate about blockchain techenology
 
-👨‍💻 Current Projects
+### 👨‍💻 Current Projects
 
 Ticton Project | Ton Dynasty
 Cerana Studio: Engaging in competitions, projects, and study groups, aiming to learn, grow, and make an impact together.
